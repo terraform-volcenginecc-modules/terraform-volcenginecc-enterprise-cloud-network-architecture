@@ -1,0 +1,9 @@
+.terraform/
+.terraform.lock.hcl.bak
+*.tfstate
+*.tfstate.*
+*.log
+!*.tfvars.example
+*.tfplan
+.aiac/
+.env
